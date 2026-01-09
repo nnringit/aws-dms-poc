@@ -230,6 +230,17 @@ For a POC running a few hours:
 
 MIT License - feel free to use this for learning and development.
 
+## 💬 AI Prompt Used
+
+This project was generated using the following prompt with GitHub Copilot:
+
+> Create a sample Data migration pipeline using DMS to migrate homogeneous database:
+> 1. Source database created with sample data
+> 2. Use DMS to migrate that to a target database
+> 3. Validate the source & target database are the same
+
+This prompt creates a complete infrastructure-as-code solution with Terraform, Python scripts for data population and validation, and automation scripts for both Linux and Windows.
+
 ## 🤝 Contributing
 
 Contributions welcome! Please submit issues and pull requests.
